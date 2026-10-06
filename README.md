@@ -11,9 +11,8 @@ This project is a fork of **Unclutter** created by [Kitze](https://github.com/ki
 Unclutter is a browser extension that uses AI to detect and hide annoying page clutter, ads, and cookie banners across the web.
 
 ### What is different in this remix?
-* **Custom Changes:** [List your new features or custom tweaks here]
-* **Fixes & Improvements:** [List any bug fixes or UI adjustments here]
-* **Upstream Tracking:** Built on top of the original source and kept up to date with upstream improvements.
+* **10-Second Auto-Cleanup:** Automatically reapplies your page cleaning rules 10 seconds after the page loads. This catches late popups, delayed ads, and sticky banners that take a few seconds to appear.
+* **Upstream Tracking:** Built directly on top of the original code and kept up to date with the main project.
 
 ---
 
